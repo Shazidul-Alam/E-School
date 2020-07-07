@@ -1,0 +1,101 @@
+#Sign-in{
+    font-size: large;
+    background-color: rgb(36, 153, 36);
+    border-radius: 50px;
+    color:white;
+}
+.top-banner{
+   
+   margin: 36px 100px;
+}
+.writing h5{
+    color: tomato;
+
+}
+.any-schedule{
+    font-size: 60px;
+    color: rgb(36, 153, 36);
+}
+.top{
+    
+    background-color: rgb(223, 245, 223);
+    height: 550px;
+}
+.Topics{
+    margin-top: 100px;
+
+}
+.middle{
+    
+    margin: 50px;
+    margin-left: 200px;
+}
+.mid-wr{
+    margin-left: 15px;
+}
+.img-left{
+    margin-left: 14px;
+}
+.img-left1{
+    margin-left: 8px;
+}
+.img-left4{
+    margin-left: 10px;
+}
+.card-size{
+    font-size: 13px;
+    margin-top: 60px;
+    
+}  
+.Online-courses h3{
+    font-size: 52px;
+    color: coral;
+    margin-top: 100px;
+    
+}
+.items{
+    margin-top: 70px;
+}
+.testimonial{
+    
+    margin-top: 100px;
+}
+
+.container-3{
+    margin-top: 60px;
+    margin-right: 380px;
+}
+.testimonial h3{
+    color: rgb(92, 90, 90);
+    font-size: 40px;
+}
+.last-footer{
+    background-color: rgb(107, 109, 107);
+}
+.last{
+    margin-top: 150px;
+}
+.copyright{
+    margin-left: 430px;
+}
+.button-des{
+    background-image: linear-gradient( to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-left: 80px;
+}
+
+.button-design {
+    background-image: linear-gradient( to bottom, #ffc793 0%, #ff7839 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 40px;
+    cursor: pointer;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+    
